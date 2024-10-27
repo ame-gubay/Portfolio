@@ -6,9 +6,9 @@ document.addEventListener('DOMContentLoaded', () => {
         link: 'https://github.com/ame-gubay/E-commerceApp'
       },
       {
-        title: 'Portfolio Site',
+        title: 'To Do List',
         description: 'Responsive portfolio site built with HTML, CSS, and vanilla JavaScript.',
-        link: 'https://yourportfolio.com'
+        link: 'https://github.com/ame-gubay/To-Do-List'
       },
       {
         title: 'Chat Application',
